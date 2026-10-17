@@ -6,7 +6,7 @@ Project: hiyorii
 Claude Code may propose implementation changes; Codex reviews pull requests independently. This file defines review standards and does not authorize deployment or access to production data.
 
 ## Project-specific safeguards
-Hiyori Japanese pet brand website: preserve prelaunch status, product claim accuracy, accessible navigation and responsive UI. Railway hiyori currently sources this repository; no checkout or payments are currently authorized.
+Hiyori Japanese pet brand website: preserve prelaunch status, product claim accuracy, accessible navigation and responsive UI. Deployment status must be verified in the hosting dashboard before any release; the repository README says Railway deployment is unverified. Do not assume this repository is currently deployed. No checkout or payments are currently authorized.
 
 ## Review checklist
 1. Review the actual PR diff and relevant tests, not only the PR description.
